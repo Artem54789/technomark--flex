@@ -412,7 +412,7 @@ body {
     width: 20px;
     height: 17px;
     margin: 0 12px 0 -10px;
-    background-image: url("/image/svg/icon-login.svg");
+    background-image: url("image/svg/icon-login.svg");
     background-repeat: no-repeat;
     background-position: 0 0;
   }
@@ -467,7 +467,7 @@ body {
 
   .info-line__profile-link::before {
     content: "";
-    background-image: url("/image/svg/icon-user.svg");
+    background-image: url("image/svg/icon-user.svg");
     width: 20px;
     height: 18px;
     position: absolute;
@@ -479,7 +479,7 @@ body {
   .info-line__icon--logout {
     width: 20px;
     height: 17px;
-    background-image: url("/image/svg/icon-login.svg");
+    background-image: url("image/svg/icon-login.svg");
     background-repeat: no-repeat;
     position: absolute;
     right: 10px;
