@@ -626,7 +626,7 @@ input[type="radio"].visually-hidden {
 .products__item--new::before {
   content: "";
   position: absolute;
-  background-image: url("../img/icons/new-flag.png");
+  background-image: url("/");
   top: 0;
   right: 0;
   width: 60px;
